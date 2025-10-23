@@ -1,0 +1,6 @@
+name: mothur_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - mothur
